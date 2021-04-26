@@ -10,14 +10,10 @@ JS
 CSS
 
 ## New things learnt
-console.log()  
-prompt()  
-alert()  
-confirm()  
-if() statements  
-while() loops  
-Math.random()  
-Math.floor()  
+fetch  
+async  
+await  
+for loop  
 
 ## Tasks
 Task 1 ✔  
