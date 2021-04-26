@@ -2,7 +2,8 @@
 
 Week Two Hackathon from SOC, API fetch
 
-using a fetch on an API return and display pokemon stats and winner is decided based on the Pokemons base exp value
+Using a fetch on an API return and display pokemon stats and winner is decided based on the Pokemons base exp value  
+Working with Joseph
 
 ## Language used
 HTML

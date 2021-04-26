@@ -1,6 +1,7 @@
 # Rock, Paper, Scissors!
 
-Week one Hackathon from SOC, building a Rock, Paper, Scissors game
+Week one Hackathon from SOC, building a Rock, Paper, Scissors game  
+Working with George
 
 ## Language used
 HTML
