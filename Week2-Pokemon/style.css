@@ -1,0 +1,21 @@
+.table
+{
+    border:5px;
+    text-align: center;
+    border-color: blue;
+}
+
+#playerStatsFull
+{
+    border: 1px solid black;
+}
+
+.playerTable
+{
+    border: 1px solid black;  
+}
+
+.computerTable
+{
+    border: 1px solid black;  
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <!-- This links the CSS to the HTML -->
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- This changes the writing on the tab, when shown in a browser -->
+    <title>Pokemon Top Trumps</title>
+  </head>
+  <body>
+      <!-- create a table, inside there are <th> which is table header, <tr> table row, <td> table data -->
+    <table class="table">
+        <!-- this is a table row -->
+      <tr>
+          <!-- this is table data -->
+        <td>
+            <!-- this is displaying an image for the player -->
+          <img src="" id="playerImage" />
+        </td>
+        <td></td>
+        <td>
+          <img src="" id="computerImage" />
+        </td>
+      </tr>
+      <tr>
+        <td id="playerName"></td>
+        <td id="outcome"></td>
+        <td id="computerName"></td>
+      </tr>
+
+      <tr>
+        <td class="playerStat">
+          <!-- table within a table for player-->
+          <table class="playerTable">
+            <tr>
+              <td>HP</td>
+              <td id="playerHp">HP here</td>
+            </tr>
+            <tr>
+              <td>Attack</td>
+              <td id="playerAttack"></td>
+            </tr>
+            <tr>
+              <td>Defense</td>
+              <td id="playerDefense"></td>
+            </tr>
+            <tr>
+              <td>Special Attack</td>
+              <td id="playerSpecialAttack"></td>
+            </tr>
+            <tr>
+              <td>Special Defense</td>
+              <td id="playerSpecialDefense"></td>
+            </tr>
+            <tr>
+              <td>Speed</td>
+              <td id="playerSpeed"></td>
+            </tr>
+          </table>
+        </td>
+        <td></td>
+        <td id="computerStat">
+          <!-- table within a table for computer-->
+          <table class="computerTable">
+            <tr>
+              <td>HP</td>
+              <td id="computerHp"></td>
+            </tr>
+            <tr>
+              <td>Attack</td>
+              <td id="computerAttack"></td>
+            </tr>
+            <tr>
+              <td>Defense</td>
+              <td id="computerDefense"></td>
+            </tr>
+            <tr>
+              <td>Special Attack</td>
+              <td id="computerSpecialAttack"></td>
+            </tr>
+            <tr>
+              <td>Special Defense</td>
+              <td id="computerSpecialDefense"></td>
+            </tr>
+            <tr>
+              <td>Speed</td>
+              <td id="computerSpeed"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+    <script src="main.js"></script>
+  </body>
+</html>
