@@ -5,7 +5,7 @@ upload the Hackathons from my time in SOC, these were weekly challenges. I will 
 Each Hackathon will have its own folder, which will contain a README explaining the Hackathon.  
 
 Week 1 - Rock,Paper,Scissors ✔  
-Week 2 - Pokemon Top Trumps  
+Week 2 - Pokemon Top Trumps ✔  
 Week 3 - Warrior Battle  
 Week 4 - To-Do list  
 Week 5 - Backend Repo  
