@@ -1,0 +1,9 @@
+.widget{
+    width: 385px;
+    height: 295px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding: 2%;
+    border: 2px solid #FF914D;
+    border-radius: 5px;
+}

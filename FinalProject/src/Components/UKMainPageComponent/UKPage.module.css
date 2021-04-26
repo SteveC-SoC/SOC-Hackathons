@@ -1,0 +1,74 @@
+.container {
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    ". .";
+  background-color: #fff;
+  padding-top: 8%;
+  width: 100%;
+  min-height: 100vh;
+  padding-left: 6%;
+  padding-right: 6%;
+  justify-items: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.title{
+  border-bottom: 1px solid #000;
+}
+
+.columnone{
+  justify-content: center;
+  align-content: center;
+  width: 80%;
+  z-index: 2;
+  }
+
+.columntwo{
+  display: grid;
+  place-items: center;
+  justify-content: center;
+  align-content: center;
+  width: 90%;
+  z-index: 1;
+
+  }
+  
+  
+
+h2{
+  padding-top: 10%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.customHeading {
+
+}
+
+.content{
+  padding-top: 8%;
+}
+
+
+.WebScrapeInfo {
+ padding: 1%; 
+ max-width: fit-content;
+ min-width: 60vh;
+
+}
+
+
+.HotelWidget {
+  display: grid;
+  place-items: center;
+  justify-content: center;
+  align-self:baseline;
+  border-top: 1px solid #000;
+
+  margin-top: 5vh;
+  
+}

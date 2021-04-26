@@ -1,0 +1,36 @@
+.page{
+    padding-top: 10%;
+    display: grid;
+    border: 1px solid black;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+
+.container{
+    justify-items: center;
+    display: grid;
+    justify-items: auto;
+    width:100%;
+    background-color: #fff;
+    padding-right: 9%;
+    padding-left: 9%;
+    min-height: 100vh;
+    /* max-width: fit-content; */
+    
+    
+}
+
+h1{
+    font-size: 3rem;
+}
+
+span{
+    font-size: 1.6rem;
+}
+
+.title{
+    padding-left: 9%;
+    display: grid;
+    gap:20px;
+}

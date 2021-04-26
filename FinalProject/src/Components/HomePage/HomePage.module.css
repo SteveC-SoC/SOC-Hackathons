@@ -1,0 +1,39 @@
+.main {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+  align-items: center;
+  padding-top: 5%;
+  min-height: 100vh;
+  background-image: url("./Backgroundimage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-items: center;
+  height: 100vh;
+}
+
+.slogan {
+  
+  justify-content: center;
+  margin-top: 5%;
+  padding: 5%;
+  border: 2px solid black;
+  font-family: "Montserrat", sans-serif;
+  color: black;
+  font-size: 2rem;
+  opacity: 0.5;
+  width: 80vw;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+  justify-content: space-around;
+  width: 70vw;
+}
+
+.slogantext{
+  margin-top: 13px;
+  text-align: center;
+}

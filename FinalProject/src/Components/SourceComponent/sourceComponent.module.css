@@ -1,0 +1,50 @@
+/* Colours */
+.mustardBox{
+    background-color: rgb(226, 215, 65);
+    align-self: auto;
+    margin: auto;
+    color: dimgrey;
+}
+
+.blueBox{
+    background-color: rgb(67, 138, 231);
+    align-self: auto;
+    margin: auto;
+    color: blanchedalmond;
+}
+
+/* Sizes */
+.smallBox{
+    height: 250px;
+    width:200px;
+    border: aqua;
+    border-width: medium;
+    border-style: solid;
+    font-size:medium;
+}
+
+.largeBox{
+    height: 400px;
+    width:400px;
+    border: aqua;
+    border-width: medium;
+    border-style: solid;
+    font-size:x-large;
+}
+
+/* Image Sizes */
+.smallImg{
+    height: 25px;
+}
+
+.smallImg:hover{
+    height:200px;
+}
+
+.largeImg{
+    height: 75px;
+}
+
+.largeImg:hover{
+    height:250px;
+}

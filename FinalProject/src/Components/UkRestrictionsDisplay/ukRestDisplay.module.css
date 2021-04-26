@@ -1,0 +1,35 @@
+
+.item{
+}
+   
+  .panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+  }
+  
+
+  button{
+    color:white;
+    background-color: #1C9AB0;
+    border-radius: 25px;
+    
+    
+  }
+.customHeading {
+  padding-top: 0 !important;
+}
+  p{
+    color:lightslategray;
+  }
+
+  .customDiv{
+    width: 40vw;
+    
+  
+  }
+
+
+  
+  

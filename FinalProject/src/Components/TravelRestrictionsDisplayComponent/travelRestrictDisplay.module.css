@@ -1,0 +1,69 @@
+.container{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.buttonone{
+    background-color: #ffc2a9;
+    margin-left: 4%;
+    color: rgb(70, 66, 66);
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.buttontwo{
+    background-color: #ffc2a9;
+    margin-left: 4%;
+    width: fit-content;
+    color: rgb(70, 66, 66);
+    border-radius: 10px;
+}
+
+.buttonthree{
+    background-color: #ffadad;
+    margin-left: 4%;
+    width: fit-content;
+    color: rgb(70, 66, 66);
+    border-radius: 10px;
+}
+
+
+
+.headerthree{
+    color: #1C9AB0;
+}
+
+
+/* BLUE BOX Styling  */
+.blueBox{
+    border: 1px solid black ;
+    border-radius: 15px;
+    padding: 5%;
+    background-color: #1C9AB0;
+    color: white;
+}
+
+.blueBox h4{
+        color:white
+ 
+}
+.blueBox p{
+    color:white
+
+}
+
+.twoColumns{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+.keyColumns{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+
+
+
+

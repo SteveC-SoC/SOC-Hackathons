@@ -1,0 +1,14 @@
+.leaflet-container {
+  background-color: #aae0ef;
+}
+
+.box {
+  border: 1px solid;
+  padding: 8px;
+  box-shadow: 1px 1px #888888;
+  border-width: 3px;
+  border-radius: 10px;
+  border-color: white;
+  background-color: #1C9AB0;
+  z-index: 0;
+  }

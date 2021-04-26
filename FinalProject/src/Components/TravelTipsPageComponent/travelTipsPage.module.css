@@ -1,0 +1,37 @@
+.container{
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    padding: 9% 10% 0% 10%;
+    display: grid;
+  grid-template-columns: 4fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    ". .";
+
+}
+h1{
+    font-size: 3rem;
+}
+
+.text{
+    padding-top: 4%;
+}
+
+.columnone{
+    padding-right: 5%;
+}
+
+.title{
+    border-bottom: 1px black solid;
+    
+}
+
+.columntwo{
+    
+    padding: 40% 23%;
+}
+
+h3{
+    font-size: 1.6rem;
+}

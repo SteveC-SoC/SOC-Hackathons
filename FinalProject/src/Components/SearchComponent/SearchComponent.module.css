@@ -1,0 +1,23 @@
+.input:focus {
+    background-color: rgb(243, 245, 109);
+    color: rgb(200, 16, 16);
+  }
+
+.wide{
+    width: 40%;
+    color:  rgb(0, 15, 151);
+    font-weight: bolder;
+}
+
+.rounded{
+    border-radius: 50px;
+    width:20%;
+}
+
+.dynamic{
+    width:4%
+}
+.dynamic:focus{
+    width:30%;
+    background-color:rgb(168, 176, 248)
+}
