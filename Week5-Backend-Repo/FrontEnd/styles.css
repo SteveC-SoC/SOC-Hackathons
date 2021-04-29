@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: url("Background.jpg") no-repeat fixed center;
+    background-size: cover;
+  }
+
+  h1 {
+    text-align: right;
+    }
+  #inputform {
+    text-align: right;
+  }
