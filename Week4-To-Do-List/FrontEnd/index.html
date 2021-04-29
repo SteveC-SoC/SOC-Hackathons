@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Things I Got To Do...</title>
+  <link rel="shortcut icon" href="./favicon.ico" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Dancing+Script&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <div class="header">
+    
+    <h1>~ TO DO ~</h1>
+    
+    <form id="input-form">
+      <label>
+        I've got to
+        <input type="text" />
+      </label>
+      <label>
+        Priority
+        <select>
+          <option>low</option>
+          <option>medium</option>
+          <option>high</option>
+        </select>
+      </label>
+      <button class="addButton">Add To List</button>
+    </form>
+  </div>
+  <button id="sort-button">Prioritise</button>
+  <button id="delete-button">Delete All</button>
+  <ul id="main-list"></ul>
+  <script src="./main.js"></script>
+
+</body>
+
+</html>

@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors!
+# Warrior Battle in C#
 
 Week Three Hackathon from SOC, introduction to C#
 

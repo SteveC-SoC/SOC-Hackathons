@@ -1,0 +1,86 @@
+
+.header {
+  background-image: url("https://bostonglobe-prod.cdn.arcpublishing.com/resizer/OqS6wsMhM0wBcrf6evD7-27mbos=/1440x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3ERZU2ACIJAXPFLIK5XGBBF7TU.jpg");
+  background-position: center;
+background-size: cover;
+  height: 450px;
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  position: relative;
+  top: 120px;
+} 
+
+body {
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.5em;
+  
+}
+
+input {
+  size: 1em;
+}
+
+#input-form{
+  text-align: center;
+  color: aliceblue;
+  position: relative;
+  top: 100px;
+  
+}
+.completed {
+  color: #C1BBB1;
+}
+
+.addButton {
+  background-color:#C1BBB1;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1em;
+  padding: 15px 20px;
+        border: none;
+        border-radius: 20px;
+        box-shadow: 10px 10px 10px #3B5661;
+}
+button {
+  background-color:white;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1em;
+  padding: 1px 10px;
+        border: none;
+        border-radius: 8px;
+        box-shadow: 3px 3px 3px #3B5661;
+}
+
+
+
+button:hover{
+          background:  #dfbc00;
+          box-shadow: 10px 10px 10px rgba(181,4,108,0.3);
+          transition: all 200ms ease-in-out;
+          cursor: pointer;
+}
+
+
+#sort-button {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: -81px;
+}
+
+#delete-button {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  list-style-position: outside;
+  padding-left: 0;
+}
+
