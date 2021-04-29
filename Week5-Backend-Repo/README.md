@@ -1,4 +1,4 @@
-# To-do List  
+# Backend Repo
 
 Week five Hackathon from SOC, The idea was to have a database of definitions for writing code with examples. frontend and backend are set up, however there is an error connecting to the database that will need to be corrected. Putting the connection credentials into UserSecrets was very satisfying (not to mention important).
 
