@@ -6,7 +6,7 @@ Working with Dom
 
 ## Language used
 JSX  
-JavaScript 
+JavaScript  
 CSS  
 
 ## New things learnt
@@ -19,7 +19,7 @@ npm start
 clone down the code, run an npm i to get the packages and then npm start to open the React app in the browser
 
 ## Further goals  
-add in a scoreboard
-keep a record of games won and lost
-make frontend look prettier
+add in a scoreboard  
+keep a record of games won and lost  
+make frontend look prettier  
 add CSS files to the components (posibly use modules (this was learnt later))

@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+body {
+  background-image: url("https://i.pinimg.com/originals/f4/36/05/f436054ad4e780016f1a4420bfd0ffa6.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  font-size: 30px;
+  font-family: "Indie Flower";
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.homer {
+  width: 400px;
+  height: 400px;
+}
+
+.bart {
+  margin-top: 100px;
+  width: 150px;
+  height: 300px;
+}
+
+.quote {
+  background-color: white;
+  padding: 10px 5px 10px 5px;
+  font-size: 20px;
+  font-family: "Indie Flower";
+  height: 80px;
+  width: 300px;
+  margin: 60px;
+  margin-top: 50px;
+  background-color: #ffffff;
+  width: 270px;
+  margin: 0 auto;
+  margin-top: 15px;
+  text-align: center;
+  border-radius: 10px;
+  border: 5px #1564ad;
+  border-style: solid;
+}
+
+.homerButton {
+  box-shadow: 3px 4px 0px 0px #1564ad;
+  background: linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+  background-color: #79bbff;
+  border-radius: 5px;
+  border: 1px solid #337bc4;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 12px 44px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #528ecc;
+}
+.homerButton:hover {
+  background: linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+  background-color: #378de5;
+}
+.homerButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.bartButton {
+  box-shadow: 3px 4px 0px 0px #1564ad;
+  background: linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+  background-color: #79bbff;
+  border-radius: 5px;
+  border: 1px solid #337bc4;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 12px 44px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #528ecc;
+}
+.bartButton:hover {
+  background: linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+  background-color: #378de5;
+}
+.bartButton:active {
+  position: relative;
+  top: 1px;
+}
