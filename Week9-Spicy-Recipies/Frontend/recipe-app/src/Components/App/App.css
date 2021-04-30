@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+* {
+  margin: 0;
+}
+
+#App {
+  text-align: center;
+  font-family: 'Architects Daughter', cursive;
+  background: rgb(28,56,85);
+background: linear-gradient(90deg, rgba(28,56,85,1) 38%, rgba(140,167,128,1) 100%);
+  color: #EBBC6C;
+  padding-bottom: 100px;
+
+}
+
+h1 {
+  font-size: 3.5em;
+  padding-top: 50px;
+  
+  
+
+}
+
+img {
+  padding-bottom: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;;
+}
+
+h2 {
+  padding-bottom: 30px;
+  font-style: italic;
+
+}
+
+button {
+  background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 9px 9px 5px #aaaaaa;
+    font-size: 3em;
+    margin: 20px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+button:hover {
+    background-color: #EBBC6C;
+    color: white;
+    border: 2px solid #a4ebf3;
+    border-radius: 10px;
+  
+    transition: all 300ms ease-in-out;
+    cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 2em;
+}
