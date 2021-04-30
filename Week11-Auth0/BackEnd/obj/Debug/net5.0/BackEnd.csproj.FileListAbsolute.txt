@@ -1,0 +1,50 @@
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.csprojAssemblyReference.cache
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.AssemblyInfoInputs.cache
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.AssemblyInfo.cs
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.csproj.CoreCompileInputs.cache
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/BackEnd.deps.json
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/BackEnd.runtimeconfig.json
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/BackEnd.runtimeconfig.dev.json
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/BackEnd.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/ref/BackEnd.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/BackEnd.pdb
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/Dapper.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/Npgsql.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.csprojAssemblyReference.cache
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.AssemblyInfoInputs.cache
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.AssemblyInfo.cs
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.csproj.CoreCompileInputs.cache
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.csproj.CopyComplete
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/ref/BackEnd.dll
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.pdb
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/Debug/net5.0/BackEnd.genruntimeconfig.cache
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\BackEnd.exe
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\BackEnd.deps.json
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.json
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.dev.json
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\BackEnd.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\ref\BackEnd.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\BackEnd.pdb
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\Dapper.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\Npgsql.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.csprojAssemblyReference.cache
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfo.cs
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CopyComplete
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\ref\BackEnd.dll
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.pdb
+C:\Users\bootcamp6\Documents\Steve\Projects\GitHub\Hackathons\SOC-Hackathons\Week11-Auth0\BackEnd\obj\Debug\net5.0\BackEnd.genruntimeconfig.cache

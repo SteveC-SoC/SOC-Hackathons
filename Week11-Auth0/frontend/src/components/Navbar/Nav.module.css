@@ -1,0 +1,9 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    width: 100vw;
+    height:100px;
+    background-attachment: red;
+  }
+  
