@@ -11,9 +11,9 @@ Week 4 - To-Do list ✔
 Week 5 - Backend Repo ✔  
 Week 6 - Noughts and Crosses ✔  
 Week 7 - Joke Viwer ✔  
-Week 8 - Unity game(mini project)  
-Week 9 - Spicey Recipies  
-Week 10 - Components  
+Week 8 - Unity game(mini project) ✔  
+Week 9 - Spicey Recipies ✔  
+Week 10 - Components ✔  
 Week 11 - Auth0  
 Final Project - TravelSafe ✔
 
